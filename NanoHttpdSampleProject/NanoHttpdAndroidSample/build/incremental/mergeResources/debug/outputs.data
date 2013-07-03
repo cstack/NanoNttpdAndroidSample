@@ -1,0 +1,13 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1372835522000 203 19aedb7cdc3386344e36087b035a0a6b2b91d4cd /Users/cstack/workspace/NanoHttpdSample/NanoHttpdSampleProject/NanoHttpdAndroidSample/build/res/all/debug/values-v11/values.xml
+1372835522000 125 fae9d1b71d520745438010c9ca7cde9c81dfefac /Users/cstack/workspace/NanoHttpdSample/NanoHttpdSampleProject/NanoHttpdAndroidSample/build/res/all/debug/values-sw720dp-land/values.xml
+1372835522000 1674 2327bd8a9a14419363db94ebe434be9eed3a4336 /Users/cstack/workspace/NanoHttpdSample/NanoHttpdSampleProject/NanoHttpdAndroidSample/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1372835522000 217 f02e000d05a079992d2dba18039216c1e6b8784f /Users/cstack/workspace/NanoHttpdSample/NanoHttpdSampleProject/NanoHttpdAndroidSample/build/res/all/debug/values-v14/values.xml
+1372835522000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Users/cstack/workspace/NanoHttpdSample/NanoHttpdSampleProject/NanoHttpdAndroidSample/build/res/all/debug/menu/main.xml
+1372835522000 806 133f101f65bbcfd2368ab9400f616adfb5528525 /Users/cstack/workspace/NanoHttpdSample/NanoHttpdSampleProject/NanoHttpdAndroidSample/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1372835792000 840 ded377b14cf99e3bd71049dfeacbf60edecb8fb1 /Users/cstack/workspace/NanoHttpdSample/NanoHttpdSampleProject/NanoHttpdAndroidSample/build/res/all/debug/values/values.xml
+1372835522000 2587 f2a7ebee62699293f6344973e6ddcd1db21a83e0 /Users/cstack/workspace/NanoHttpdSample/NanoHttpdSampleProject/NanoHttpdAndroidSample/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
+1372835792000 686 48f22818386aea1a974e5eb5dd2708d8ccacb350 /Users/cstack/workspace/NanoHttpdSample/NanoHttpdSampleProject/NanoHttpdAndroidSample/build/res/all/debug/layout/activity_main.xml
+1372835522000 1209 7f391d1ccab528a8991177a02630249708ff44b8 /Users/cstack/workspace/NanoHttpdSample/NanoHttpdSampleProject/NanoHttpdAndroidSample/build/res/all/debug/drawable-hdpi/ic_launcher.png
